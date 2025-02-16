@@ -22,6 +22,7 @@ A sleek and responsive calculator built using **HTML, CSS, and JavaScript**. Thi
 
 ![cal3](https://github.com/user-attachments/assets/68c2e22c-0b06-49c4-a7a0-8fe33021effd)
 
+![cal4](https://github.com/user-attachments/assets/5fa3e821-11c6-4230-a69c-54538407b0cb)
 
 ---
 
