@@ -14,6 +14,11 @@ A sleek and responsive calculator built using **HTML, CSS, and JavaScript**. Thi
 
 ---
 
+## Live Link
+[Click Here](https://calculator-rho-six-46.vercel.app/)
+
+---
+
 ## 🎨 Preview
 
 ![cal1](https://github.com/user-attachments/assets/eb2ab5b4-85e1-4ece-8aae-4556c6bb9de4)
