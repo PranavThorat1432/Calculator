@@ -18,11 +18,17 @@ A sleek and responsive calculator built using **HTML, CSS, and JavaScript**. Thi
 
 ![cal1](https://github.com/user-attachments/assets/eb2ab5b4-85e1-4ece-8aae-4556c6bb9de4)
 
+---
 ![cal2](https://github.com/user-attachments/assets/4d66ab6d-afe7-492d-8cd1-6951e35c7e7c)
 
+---
 ![cal3](https://github.com/user-attachments/assets/68c2e22c-0b06-49c4-a7a0-8fe33021effd)
 
+---
 ![cal4](https://github.com/user-attachments/assets/5fa3e821-11c6-4230-a69c-54538407b0cb)
+
+---
+![cal5](https://github.com/user-attachments/assets/2ece68b0-9970-46ac-bf2a-ddcf5d385063)
 
 ---
 
